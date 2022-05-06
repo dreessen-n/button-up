@@ -1,6 +1,6 @@
 # project Button UP
 
-git@github.com:dreessen-n/button-up.git
+https://dreessen-n.github.io/button-up/
 
 Objectives:
 Use what we've learned about the border and border-radius CSS properties
