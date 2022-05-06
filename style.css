@@ -5,3 +5,33 @@
     padding: 0px;
     box-sizing: border-box;
 }
+
+div {
+    margin: 50px 50px;
+}
+
+.btnSearch {
+    width: 120px;
+    height: 25px;
+    color: lightseagreen;
+    border: 2px solid lightseagreen;
+    border-radius: 25px;
+    display: block;
+}
+
+.btnPlus {
+    width: 30px;
+    height: 30px;
+    background-color: lightseagreen;
+    color: white;
+    font-size: larger;
+    border-radius: 50%;
+    border-color: lightseagreen;
+    margin-top: 15px;
+    display: block;
+    border-style: none;
+}
+
+.btnCreateAcct {
+    margin-top: 20px;
+}
